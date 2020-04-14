@@ -1,5 +1,4 @@
 # Scaffold for solution to DIT873 / DAT346, Programming task 2
-from mrjob.job import MRJob
 
 def encode_list(s_list):
     # Identify the run-length encoding for each data value [data value, count]
